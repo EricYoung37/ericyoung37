@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7245C4&center=true&vCenter=true&width=500&lines=Hi+there!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7245C4&center=true&vCenter=true&width=500&repeat=false&lines=Hi+there!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
     <br />
     <br />
     <a href="https://linkedin.com/in/ericyoung6"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-a270ff?style=for-the-badge&logo=linkedin&labelColor=7245c4">
