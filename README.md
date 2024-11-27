@@ -10,6 +10,7 @@
 
 <h2 align="left" style="color: #ff0055">Skills</h2>
 
+<div align="center">
 <table>
 
 <tr>
@@ -91,6 +92,7 @@
 </tr>
 
 </table>
+</div>
 
 <h2 align="left" style="color: #ff0055">Insights</h2>
 
